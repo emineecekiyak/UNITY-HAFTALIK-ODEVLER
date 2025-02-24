@@ -1,4 +1,3 @@
-*.cs linguist-language=C#
-
+git add .gitattributes
+git commit -m "Gitattributes dosyası eklendi"
 git push origin main
-
