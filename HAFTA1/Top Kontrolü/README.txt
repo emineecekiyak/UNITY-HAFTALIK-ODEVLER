@@ -30,3 +30,6 @@ Bu proje, Unity kullanarak geliştirilen temel bir oyun projesidir. Oyuncu, klav
 
 ## Lisans
 Bu proje **MIT Lisansı** altında sunulmuştur.
+
+https://www.youtube.com/watch?v=YQnD1C8X2TQ
+
